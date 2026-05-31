@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f33f60d-a564-4be8-983d-a450574f93a3" name="Changes" comment="add readme">
+    <list default="true" id="3f33f60d-a564-4be8-983d-a450574f93a3" name="Changes" comment="optimized whole file structure">
+      <change afterPath="$PROJECT_DIR$/NoiseDataGeneration/datageneration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Ai调用.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Ai调用.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NoiseDataDataset/Statics.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +61,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.datageneration.executor": "Run",
     "Python.graph.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.predict_harmonics_final.executor": "Run",
     "Python.query.executor": "Run",
     "Python.全文件2.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -114,12 +121,29 @@
       <option name="project" value="LOCAL" />
       <updated>1777551190649</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="optimized whole file structure">
+      <option name="closed" value="true" />
+      <created>1780234264806</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780234264806</updated>
+    </task>
+    <task id="LOCAL-00006" summary="optimized whole file structure">
+      <option name="closed" value="true" />
+      <created>1780234275622</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1780234275622</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4.30" />
     <MESSAGE value="add readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add readme" />
+    <MESSAGE value="optimized whole file structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="optimized whole file structure" />
   </component>
 </project>
